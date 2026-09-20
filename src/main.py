@@ -1,2 +1,1 @@
-'print("hello")' 
-'print("fix-1 ÐÂ¹¦ÄÜ")' 
+'print("hello fix-1")' 
